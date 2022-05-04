@@ -45,6 +45,6 @@
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux
 
 # Project-related
-password.txt
+misc/password.txt
 gitpush.sh
-node_module/*
+node_modules/*

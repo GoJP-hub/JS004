@@ -1,0 +1,35 @@
+{
+  "name": "js_004",
+  "version": "1.0.0",
+  "description": "practicing Express with Typescript and Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc",
+    "ts-node": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoJP-hub/JS004.git"
+  },
+  "author": "go.hirano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoJP-hub/JS004/issues"
+  },
+  "homepage": "https://github.com/GoJP-hub/JS004#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/helmet": "^4.0.0",
+    "@types/node": "^17.0.31",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
