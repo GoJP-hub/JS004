@@ -46,5 +46,5 @@
 
 # Project-related
 misc/password.txt
-gitpush.sh
-node_modules/*
+sh/gitpush.sh
+src/node_modules/*
