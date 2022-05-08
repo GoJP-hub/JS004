@@ -20,7 +20,7 @@
   "homepage": "https://github.com/GoJP-hub/JS004#readme",
   "dependencies": {
     "@types/log4js": "^2.3.5",
-    "body-parser": "^1.20.0",
+    "config": "^3.3.7",
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "log4js": "^6.4.6",
